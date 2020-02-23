@@ -1,0 +1,9 @@
+#include <conio.h>
+  if(kbhit()){        //当按键时执行
+		input=getch();    //获取字符
+	}
+  
+#include <stdlib.h>
+system("cls");      //清屏
+ 
+ 
