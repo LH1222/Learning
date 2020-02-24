@@ -6,4 +6,8 @@
 #include <stdlib.h>
 system("cls");      //清屏
  
- 
+#include <cstdlib>
+rand()%100;			//随机数生成
+
+#include <windows.h>
+gotoxy(0,0);		//光标函数
